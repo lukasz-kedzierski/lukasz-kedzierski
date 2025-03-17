@@ -1,4 +1,4 @@
-## Hi there, I'm Łukasz Kędzierski!
+## Hi, I'm Łukasz!
 
 I'm a Python developer implementing solutions for autonomous mobile robots. My work involves using ROS2 LiDAR-based odometry and SLAM algorithms, as well as pointcloud-based object detection algorithms to tackle navigation challenges in robotics. I'm currently finishing my graduate studies in Artificial Intelligence and Machine Learning at the Lodz University of Technology.
 
